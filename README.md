@@ -1,6 +1,6 @@
 # calculation
 it's easy to calculate with me
-https://github.com/your-calculation/mini-calculator.git
+git clone https://github.com/nickson77/mini-calculator.git
 def add(x, y):
     return x + y
 
